@@ -16,7 +16,7 @@ export default function App() {
   return (
     <div>
       <header>
-        <h1>🍦 Heladería</h1>
+        <h1>Heladería</h1>
         <nav>
           <Link href="/">Categorías</Link> |{" "}
           <Link href="/ingredientes">Ingredientes</Link> |{" "}
